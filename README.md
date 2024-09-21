@@ -1,12 +1,12 @@
 ## Hi there 👋
 ## <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&multiline=true&repeat=&random=&width=435&lines=Welcome+to+my+GitHub+profile+page)](https://git.io/typing-svg)</div>
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,java,nodejs,c,maven&perline=4)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,java,nodejs,c,maven&perline=4)](https://skillicons.dev) 
     
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6"  />
     
-    ![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&&locale=zh_Hans) 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical) 
+![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&&locale=zh_Hans) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical) 
 
 
 
