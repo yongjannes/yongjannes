@@ -3,7 +3,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&&locale=zh_Hans)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,vue,java,nodejs,maven&theme=light"&perline=5 />
 <!--
 **yongjannes/yongjannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
