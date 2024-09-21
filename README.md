@@ -5,10 +5,11 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,java,nodejs,c,maven&perline=4" alt="Skills">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6"  />
 </div>
 
     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6"  />
+
     
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&&locale=zh_Hans) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical) 
