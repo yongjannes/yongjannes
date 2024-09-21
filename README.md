@@ -2,10 +2,11 @@
 ## <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&multiline=true&repeat=&random=&width=435&lines=Welcome+to+my+GitHub+profile+page)](https://git.io/typing-svg)</div>
 
 ## My Skills
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <img src="https://skillicons.dev/icons?i=html,css,js,vue,java,nodejs,c,maven&perline=4" alt="Skills">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="Top Languages">
 </div>
+
 
 
     
