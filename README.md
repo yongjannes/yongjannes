@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://stats.justsong.cn/api/yuque?username=yongjannes&cn=true)
+![](https://stats.justsong.cn/api/CSDN?username=yongjannes&cn=true)
 <!--
 **yongjannes/yongjannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
