@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&&locale=zh_Hans)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yongjannes&left_color=green&right_color=red)
+![trophy](https://github-profile-trophy.vercel.app/?username=yongjannes)
 <!--
 **yongjannes/yongjannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
