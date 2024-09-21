@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://stats.justsong.cn/api/steam?username=profiles/76561199060426447&cn=true&lang=zh-CN)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes)
 <!--
 **yongjannes/yongjannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
