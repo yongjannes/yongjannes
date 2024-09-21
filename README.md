@@ -1,8 +1,9 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&multiline=true&repeat=&random=&width=435&lines=Welcome+to+my+GitHub+profile+page)](https://git.io/typing-svg)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&&locale=zh_Hans)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&layout=compact&theme=tokyonight)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&multiline=true&repeat=&random=&width=435&lines=Welcome+to+my+GitHub+profile+page)](https://git.io/typing-svg)
+
 <!--
 **yongjannes/yongjannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
