@@ -1,5 +1,5 @@
 ## Hi there 👋
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=yongjannes)
+![](https://stats.justsong.cn/api/leetcode?username=yongjannes&cn=true)
 <!--
 **yongjannes/yongjannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
