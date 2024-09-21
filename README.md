@@ -4,8 +4,7 @@
 ## My Skills ![Skills](https://skillicons.dev/icons?i=html,css,js,vue,java,nodejs,c,maven&perline=8)
 
 
-<img src="https://streak-stats.demolab.com/?user=yongjannes&locale=zh_Hans" style="width: 400px;">
-<img src="https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical" style="width: 400px;">
+<img src="https://streak-stats.demolab.com/?user=yongjannes&locale=zh_Hans" style="width: 400px;"><img src="https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical" style="width: 400px;">
 
 
 <p align="center">
