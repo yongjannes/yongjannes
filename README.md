@@ -4,10 +4,9 @@
 ## My Skills ![Skills](https://skillicons.dev/icons?i=html,css,js,vue,java,nodejs,c,maven&perline=8)
 
 
-<img src="https://streak-stats.demolab.com/?user=yongjannes&locale=zh_Hans" style="width: 450px;">
-<img src="https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical" style="width: 450px;">
+<img src="https://streak-stats.demolab.com/?user=yongjannes&locale=zh_Hans" style="width: 400px;">
+<img src="https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical" style="width: 400px;">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical) 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="Top Languages" />
