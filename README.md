@@ -4,7 +4,7 @@
 ## My Skills ![Skills](https://skillicons.dev/icons?i=html,css,js,vue,java,nodejs,c,maven&perline=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&locale=zh_Hans&width=300)
-<img src="https://streak-stats.demolab.com/?user=yongjannes&locale=zh_Hans" style="width: 300px;">
+<img src="https://streak-stats.demolab.com/?user=yongjannes&locale=zh_Hans" style="width: 500px;">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&&locale=zh_Hans) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical) 
