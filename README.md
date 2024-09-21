@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&&locale)
+![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&&locale=zh_Hans)
 <!--
 **yongjannes/yongjannes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
