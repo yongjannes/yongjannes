@@ -5,8 +5,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&locale=zh_Hans&width=300)
 <img src="https://streak-stats.demolab.com/?user=yongjannes&locale=zh_Hans" style="width: 450px;">
-
+<img src="https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical" style="width: 450px;">
 ![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&&locale=zh_Hans) 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical) 
 
 <p align="center">
