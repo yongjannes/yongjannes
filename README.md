@@ -3,7 +3,7 @@
 
 ## My Skills
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,java,nodejs,c,maven&perline=4" alt="Skills" style="margin-top:100px;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,java,nodejs,c,maven&perline=4" alt="Skills" style="margin-botton:100px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6"  />
 </div>
 
