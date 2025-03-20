@@ -9,7 +9,7 @@
 
 
 
-<img src="https://streak-stats.demolab.com/?user=yongjannes&locale=zh_Hans" style="height: 350px;">
+<img src="https://streak-stats.demolab.com/?user=yongjannes&locale=zh_Hans" style="height: 250px;">
 
 
     
