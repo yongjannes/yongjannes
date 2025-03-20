@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&multiline=true&repeat=&random=&width=435&lines=Welcome+to+my+GitHub+profile+page)](https://git.io/typing-svg)</div>
 
-## My Skills ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,nodejs,c,mysql,&perline=10) [![Github](https://img.icons8.com/?size=96&id=63777&format=png)](https://github.com/yongjannes)
+## My Skills ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,nodejs,c,mysql,&perline=10)
 
 
 
