@@ -7,9 +7,7 @@
 <img src="https://streak-stats.demolab.com/?user=yongjannes&locale=zh_Hans" style="width: 400px;"><img src="https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=radical" style="width: 400px;">
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" alt="Top Languages" />
-</p>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yongjannes&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 
 
 
