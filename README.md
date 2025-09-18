@@ -5,8 +5,15 @@
 
 
 
-![CSDN 统计图](https://stats.justsong.cn/api/csdn?id=weixin_61046563&theme=gruvbox)
-![稀土掘金统计图](https://stats.justsong.cn/api/juejin?id=3982856066970954&theme=gruvbox)
+<p align="center">
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="https://stats.justsong.cn/api/csdn?id=weixin_61046563&theme=gruvbox" width="400"/>
+  </span>
+  <span style="display: inline-block;">
+    <img src="https://stats.justsong.cn/api/juejin?id=3982856066970954&theme=gruvbox" width="400"/>
+  </span>
+</p>
+
 
 
 
