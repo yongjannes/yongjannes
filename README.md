@@ -1,15 +1,14 @@
 ## Hi there 👋
 ## <div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&multiline=true&repeat=&random=&width=435&lines=Welcome+to+my+GitHub+profile+page)](https://git.io/typing-svg)</div>
 
-## My Skills  
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,nodejs,c,mysql&perline=10)
+## My Skills  ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,nodejs,c,mysql&perline=10)
 
 
 
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&theme=dark)](https://git.io/streak-stats)
 
 
 
