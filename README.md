@@ -5,9 +5,14 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yongjannes" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=tokyonight" />
+  <span style="display: inline-block; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yongjannes" width="350"/>
+  </span>
+  <span style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=tokyonight" width="350"/>
+  </span>
 </p>
+
 
 
 
