@@ -1,29 +1,25 @@
 ## Hi there 👋
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&center=true&multiline=true&repeat=false&width=435&lines=Welcome+to+my+GitHub+profile+page)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=2000&center=true%C2%A0%E7%9C%9F&vCenter=true%C2%A0%E7%9C%9F&multiline=true&repeat=&random=&width=435&lines=Welcome+to+my+GitHub+profile+page)](https://git.io/typing-svg)
 </div>
 
----
-
-## 我的技能
+## My Skills
 <div align="center">
   ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,nodejs,c,mysql&perline=10)
 </div>
 
----
-
 <!-- 自我介绍 -->
 <div align="center">
   <img align="left" width="25%" src="https://raw.githubusercontent.com/yongjannes/Pictures/master/img/20250918161955357.jpg"/>
-  <p>&emsp;&emsp;大家好，我是 殇枫，热爱编程与技术探索</p>
-  <p>&emsp;&emsp;专注于前端开发与小程序项目，也在学习更多后端与算法知识</p>
-  <p>&emsp;&emsp;希望通过代码打造有趣的作品，如果你愿意交流，我会很开心！</p>
-  <p><strong>&emsp;&emsp;🎈联系我: <a href="mailto:yongjannes@gmail.com"> 邮箱联系 </a></strong></p>
+  <div style="display: inline-block; text-align: left; max-width: 65%;">
+    <p>大家好，我是 殇枫，热爱编程与技术探索</p>
+    <p>专注于前端开发与小程序项目，也在学习更多后端与算法知识</p>
+    <p>希望通过代码打造有趣的作品，如果你愿意交流，我会很开心！</p>
+    <p><strong>🎈Contact me: <a href="mailto:yongjannes@gmail.com"> Google Mail ® </a></strong></p>
+  </div>
 </div>
 
----
-
-<!-- CSDN & 掘金 统计卡片 -->
+<!-- CSDN & 掘金 -->
 <p align="center">
   <span style="display:inline-block;margin-right:10px;">
     <img src="https://stats.justsong.cn/api/csdn?id=weixin_61046563&theme=gruvbox" width="400"/>
