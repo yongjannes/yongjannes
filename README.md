@@ -26,6 +26,7 @@
   </span>
 </p>
 
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
 <p align="center">
   <span style="display: inline-block; margin-right: 10px;">
@@ -36,34 +37,15 @@
   </span>
 </p>
 
-
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 <p align="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yongjannes&theme=github-compact&hide_border=true&area=true" />
 </p>
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
-
-
+<p align="center">
 ![trophy](https://github-profile-trophy.vercel.app/?username=yongjannes)
-
-
-
-
-
-
-
-
-
-<div align="center">
-    <img src="https://streak-stats.demolab.com/?user=yongjannes" style="height: 250px;">
-</div>
-
-
-
-    
-
-    
-
-
+</p>
 
 
 
