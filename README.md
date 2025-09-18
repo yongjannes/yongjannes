@@ -29,7 +29,6 @@
     <p>专注于前端开发与小程序项目，同时学习后端开发和算法优化。</p>
     <p>希望通过代码打造有趣的作品，也欢迎你与我交流，共同进步！</p>
     
-    <!-- 联系方式 + 社交图标 -->
     <p>
       <strong>🎈联系我: <a href="mailto:yongjannes@gmail.com">邮箱联系</a></strong> &nbsp;&nbsp;
       <strong>🌐 <a href="https://blog.csdn.net/weixin_61046563" target="_blank">CSDN</a></strong> &nbsp;&nbsp;
