@@ -13,6 +13,7 @@
     <img src="https://stats.justsong.cn/api/juejin?id=3982856066970954&theme=gruvbox" width="400"/>
   </span>
 </p>
+![GitHub 统计图](https://stats.justsong.cn/api/github?username=yongjannes&theme=gruvbox)
 
 
 
