@@ -17,7 +17,7 @@
 
 <p align="center">
   <span style="display: inline-block; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yongjannes" width="400"/>
+    <img src="https://github-immortality.vercel.app/api?username=yongjannes" width="400" alt="IceEnd's GitHub stats"/>
   </span>
   <span style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=tokyonight" width="400"/>
@@ -29,8 +29,7 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yongjannes&theme=github-compact&hide_border=true&area=true" />
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=yongjannes)
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=yongjannes)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&theme=tokyonight)
+
 
 
 
