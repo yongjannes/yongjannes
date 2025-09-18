@@ -5,10 +5,10 @@
 
 
 
-![CSDN 统计图](https://stats.justsong.cn/api/csdn?id=weixin_61046563&theme=gruvbox 
+![CSDN 统计图](https://stats.justsong.cn/api/csdn?id=weixin_61046563&theme=gruvbox)
 ![稀土掘金统计图](https://stats.justsong.cn/api/juejin?id=3982856066970954&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
   <span style="display: inline-block; margin-right: 10px;">
