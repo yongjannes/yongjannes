@@ -43,9 +43,10 @@
 </p>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
 
-<p align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=yongjannes)
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yongjannes" alt="GitHub Trophy" width="800"/>
+</div>
+
 
 
 
