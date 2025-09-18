@@ -5,7 +5,10 @@
 
 
 
-![CSDN 统计图](https://stats.justsong.cn/api/csdn?id=weixin_61046563) 
+![CSDN 统计图](https://stats.justsong.cn/api/csdn?id=weixin_61046563&theme=gruvbox)
+
+![CSDN 统计图](https://stats.justsong.cn/api/csdn?id=weixin_61046563&theme=dark)
+
 
 <p align="center">
   <span style="display: inline-block; margin-right: 10px;">
