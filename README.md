@@ -6,10 +6,13 @@
 
 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yongjannes&theme=dark)](https://git.io/streak-stats)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://github-readme-streak-stats.herokuapp.com/?user=yongjannes&theme=dark&hide_border=true&token=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" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://github-readme-streak-stats.herokuapp.com/?user=yongjannes&theme=light&hide_border=true&token=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" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yongjannes&theme=dark&hide_border=true&token=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" />
+</picture>
 
 
 <table>
