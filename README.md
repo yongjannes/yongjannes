@@ -29,13 +29,12 @@
     <p>专注于前端开发与小程序项目，同时学习后端开发和算法优化。</p>
     <p>希望通过代码打造有趣的作品，也欢迎你与我交流，共同进步！</p>
 
-    <!-- 社交链接，用 div + strong + a 不会被当作代码块 -->
-    <div>
-      <strong>🎈联系我: <a href="mailto:yongjannes@gmail.com">邮箱联系</a></strong> &nbsp;&nbsp;
-      <strong>🌐 <a href="https://blog.csdn.net/weixin_61046563" target="_blank">CSDN</a></strong> &nbsp;&nbsp;
-      <strong>🔥 <a href="https://juejin.cn/user/3982856066970954" target="_blank">掘金</a></strong> &nbsp;&nbsp;
-      <strong>📝 <a href="https://www.yuque.com/yongjannes" target="_blank">语雀</a></strong>
-    </div>
+ 
+   <p> <strong>🎈联系我: <a href="mailto:yongjannes@gmail.com">邮箱联系</a></strong></p>
+    <p><strong>🌐 <a href="https://blog.csdn.net/weixin_61046563" target="_blank">CSDN</a></strong></p>
+   <p> <strong>🔥 <a href="https://juejin.cn/user/3982856066970954" target="_blank">掘金</a></strong></p>
+   <p> <strong>📝 <a href="https://www.yuque.com/yongjannes" target="_blank">语雀</a></strong></p>
+
 
   </div>
 </div>
