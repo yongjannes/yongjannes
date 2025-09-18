@@ -3,21 +3,6 @@
 
 ## My Skills  ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,nodejs,c,mysql&perline=10)
 
-<!-- 自我介绍 -->
-<div align="center" style="margin-bottom: 40px;">
-  <img align="left" width="180" 
-       src="https://raw.githubusercontent.com/yongjannes/Pictures/master/img/20250918161955357.jpg" 
-       style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-right: 25px;"/>
-  <div style="display: inline-block; text-align: left; max-width: 65%;">
-    <p>大家好，我是 <strong>殇枫</strong>，热爱编程与技术探索。</p>
-    <p>目前专注于前端开发与小程序项目，同时学习后端开发和算法优化。</p>
-    <p>我喜欢将创意通过代码实现，从小工具到复杂应用，都充满了探索乐趣。</p>
-    <p>业余时间，我喜欢阅读技术文章、尝试开源项目，以及研究新兴前沿技术。</p>
-    <p>希望通过代码打造有趣的作品，也欢迎你与我交流，共同进步！</p>
-    <p><strong>🎈联系我: <a href="mailto:yongjannes@gmail.com">邮箱联系</a></strong></p>
-  </div>
-</div>
-
 <!-- 自我介绍 + 社交 -->
 <div align="center" style="margin-bottom: 40px;">
   <img align="left" width="180" 
@@ -27,8 +12,8 @@
   <div style="display: inline-block; text-align: left; max-width: 65%;">
     <p>大家好，我是 <strong>殇枫</strong>，热爱编程与技术探索。</p>
     <p>专注于前端开发与小程序项目，同时学习后端开发和算法优化。</p>
+    <p>我喜欢将创意通过代码实现，从小工具到复杂应用，都充满了探索乐趣。</p>
     <p>希望通过代码打造有趣的作品，也欢迎你与我交流，共同进步！</p>
-
 
    <p> <strong>🎈联系我: <a href="mailto:yongjannes@gmail.com">邮箱联系</a></strong>
     <strong>🌐 <a href="https://blog.csdn.net/weixin_61046563" target="_blank">CSDN</a></strong>
