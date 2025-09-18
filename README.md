@@ -4,10 +4,11 @@
 ## My Skills  ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,nodejs,c,mysql&perline=10)
 
 
-<div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yongjannes" />
   <img src="https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=tokyonight" />
-</div>
+</p>
+
 
 
 
