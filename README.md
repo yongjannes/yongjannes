@@ -10,7 +10,7 @@
     <img src="https://stats.justsong.cn/api/csdn?id=weixin_61046563&theme=gruvbox" width="400"/>
   </span>
   <span style="display: inline-block;">
-    <img src="https://stats.justsong.cn/api/juejin?id=3982856066970954&theme=gruvbox" width="400"/>
+    <img src="https://stats.justsong.cn/api/juejin?id=3982856066970954&theme=synthwave" width="400"/>
   </span>
 </p>
 
