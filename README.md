@@ -37,8 +37,11 @@
 </p>
 
 
-
+<p align="center">
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yongjannes&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=yongjannes)
 
