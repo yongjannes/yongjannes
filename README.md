@@ -4,15 +4,7 @@
 ## My Skills  ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,nodejs,c,mysql&perline=10)
 
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github-readme-streak-stats.herokuapp.com/?user=yongjannes&theme=dark&hide_border=true&token=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" />
-  <source media="(prefers-color-scheme: light)" 
-          srcset="https://github-readme-streak-stats.herokuapp.com/?user=yongjannes&theme=light&hide_border=true&token=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" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yongjannes&theme=dark&hide_border=true&token=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" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjannes)
 
 
 <table>
