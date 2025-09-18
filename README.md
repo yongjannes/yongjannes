@@ -6,20 +6,12 @@
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yongjannes&theme=github-compact&hide_border=true&area=true" />
 
-![](https://stats.justsong.cn/api/leetcode?username=yongjannes&cn=true)
+![CSDN 统计图](https://stats.justsong.cn/api/csdn?id=对不起初见i) 
 
 
 
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yongjannes&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yongjannes&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yongjannes&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table>
+
+
 
 <div align="center">
     <img src="https://streak-stats.demolab.com/?user=yongjannes&locale=zh_Hans" style="height: 250px;">
