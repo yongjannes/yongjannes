@@ -10,14 +10,15 @@
 
 <div align="center">
   <!-- GitHub 提交统计卡片 -->
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yongjannes&hide_title=true&hide_border=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=zh-CN" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yongjannes&hide_title=true&hide_border=true&show_icons=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" />
 
   <!-- GitHub 语言统计卡片 -->
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=zh-CN" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
   <!-- GitHub 连击统计卡片 -->
-  <img height="137px" src="https://streak-stats.demolab.com?user=yongjannes&theme=graywhite&hide_border=true&background=FFFFFF00&locale=zh-CN" />
+  <img height="137px" src="https://streak-stats.demolab.com?user=yongjannes&theme=graywhite&hide_border=true&background=FFFFFF00" />
 </div>
+
 
 
 
