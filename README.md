@@ -4,7 +4,7 @@
 ## My Skills  ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,nodejs,c,mysql&perline=10)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjannes)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjannes) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=tokyonight)
 
 
 <table>
