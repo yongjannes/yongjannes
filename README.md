@@ -3,6 +3,14 @@
 
 ## My Skills  ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,nodejs,c,mysql&perline=10)
 
+<div>
+  <img align="left" width="25%" src="https://raw.githubusercontent.com/yongjannes/Pictures/master/img/20250918161955357.jpg"/>
+  <p>&emsp;&emsp;大家好，我是 殇枫，热爱编程与技术探索</p>
+  <p>&emsp;&emsp;专注于前端开发与小程序项目，也在学习更多后端与算法知识</p>
+  <p>&emsp;&emsp;希望通过代码打造有趣的作品，如果你愿意交流，我会很开心！</p>
+  <p><strong>&emsp;&emsp;🎈Contact me: <a href="mailto:yongjannes@gmail.com"> Google Mail ® </a></strong></p>
+</div>
+
 
 
 <p align="center">
