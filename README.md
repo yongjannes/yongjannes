@@ -4,16 +4,9 @@
 ## My Skills  ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,react,java,nodejs,c,mysql&perline=10)
 
 
-<p align="center">
-  <span style="display: inline-block; margin-right: 10px;">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes)
-  </span>
-  <span style="display: inline-block;">
-    <img src="https://github-readme-stats.vercel.app/api?username=yongjannes&show_icons=true&theme=tokyonight" width="400"/>
-  </span>
-</p>
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yongjannes&theme=github-compact&hide_border=true&area=true" />
 
-
+![](https://stats.justsong.cn/api/leetcode?username=yongjannes&cn=true)
 
 
 
