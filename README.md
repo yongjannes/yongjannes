@@ -6,7 +6,7 @@
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yongjannes&theme=github-compact&hide_border=true&area=true" />
 
-![CSDN 统计图](https://stats.justsong.cn/api/csdn?id=对不起初见i) 
+![CSDN 统计图](https://stats.justsong.cn/api/csdn?id=weixin_61046563) 
 
 
 
