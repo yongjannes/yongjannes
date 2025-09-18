@@ -30,8 +30,7 @@
     <p>希望通过代码打造有趣的作品，也欢迎你与我交流，共同进步！</p>
 
  
-   <p> <strong>🎈联系我: <a href="mailto:yongjannes@gmail.com">邮箱联系</a></strong></p>
-    <p><strong>🌐 <a href="https://blog.csdn.net/weixin_61046563" target="_blank">CSDN</a></strong></p>
+   <p> <strong>🎈联系我: <a href="mailto:yongjannes@gmail.com">邮箱联系</a></strong><strong>🌐 <a href="https://blog.csdn.net/weixin_61046563" target="_blank">CSDN</a></strong></p>
    <p> <strong>🔥 <a href="https://juejin.cn/user/3982856066970954" target="_blank">掘金</a></strong></p>
    <p> <strong>📝 <a href="https://www.yuque.com/yongjannes" target="_blank">语雀</a></strong></p>
 
