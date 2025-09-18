@@ -18,53 +18,28 @@
   </div>
 </div>
 
-
-<!-- 自我介绍 + 技能 + 社交 -->
+<!-- 自我介绍 + 社交 -->
 <div align="center" style="margin-bottom: 40px;">
-  <!-- 头像 -->
   <img align="left" width="180" 
        src="https://raw.githubusercontent.com/yongjannes/Pictures/master/img/20250918161955357.jpg" 
        style="border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.3); margin-right: 25px;"/>
   
-  <!-- 文字介绍 -->
   <div style="display: inline-block; text-align: left; max-width: 65%;">
     <p>大家好，我是 <strong>殇枫</strong>，热爱编程与技术探索。</p>
-    <p>目前专注于前端开发与小程序项目，同时学习后端开发和算法优化。</p>
-    <p>我喜欢将创意通过代码实现，从小工具到复杂应用，都充满了探索乐趣。</p>
-    <p>业余时间，我喜欢阅读技术文章、尝试开源项目，以及研究新兴前沿技术。</p>
+    <p>专注于前端开发与小程序项目，同时学习后端开发和算法优化。</p>
     <p>希望通过代码打造有趣的作品，也欢迎你与我交流，共同进步！</p>
-    <p><strong>🎈联系我: <a href="mailto:yongjannes@gmail.com">邮箱联系</a></strong></p>
-
-    <!-- 社交图标 -->
-    <div style="margin-top: 15px;">
-      <a href="https://blog.csdn.net/weixin_61046563" target="_blank" style="margin-right:15px;">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/csdn.svg" alt="CSDN" width="32"/>
-      </a>
-      <a href="https://juejin.cn/user/3982856066970954" target="_blank" style="margin-right:15px;">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/juejin.svg" alt="掘金" width="32"/>
-      </a>
-      <a href="https://www.yuque.com" target="_blank" style="margin-right:15px;">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/yuque.svg" alt="语雀" width="32"/>
-      </a>
-      <a href="https://github.com/yongjannes" target="_blank" style="margin-right:15px;">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="32"/>
-      </a>
-    </div>
+    
+    <!-- 联系方式 + 社交图标 -->
+    <p>
+      <strong>🎈联系我: <a href="mailto:yongjannes@gmail.com">邮箱联系</a></strong> &nbsp;&nbsp;
+      <strong>🌐 <a href="https://blog.csdn.net/weixin_61046563" target="_blank">CSDN</a></strong> &nbsp;&nbsp;
+      <strong>🔥 <a href="https://juejin.cn/user/3982856066970954" target="_blank">掘金</a></strong> &nbsp;&nbsp;
+      <strong>📝 <a href="https://www.yuque.com/yongjannes" target="_blank">语雀</a></strong> &nbsp;&nbsp;
+    </p>
   </div>
 </div>
 
-<!-- CSDN & 掘金 & 语雀 统计卡片 -->
-<p align="center">
-  <span style="display:inline-block; margin-right:10px;">
-    <img src="https://stats.justsong.cn/api/csdn?id=weixin_61046563&theme=gruvbox" width="350"/>
-  </span>
-  <span style="display:inline-block; margin-right:10px;">
-    <img src="https://stats.justsong.cn/api/juejin?id=3982856066970954&theme=synthwave" width="350"/>
-  </span>
-  <span style="display:inline-block;">
-    <img src="https://stats.justsong.cn/api/yuque?id=your_yuque_id&theme=radical" width="350"/>
-  </span>
-</p>
+
 
 
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="20" width="100%">
