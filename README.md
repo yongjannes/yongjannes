@@ -13,9 +13,6 @@
     <img src="https://stats.justsong.cn/api/juejin?id=3982856066970954&theme=gruvbox" width="400"/>
   </span>
 </p>
-![GitHub 统计图](https://stats.justsong.cn/api/github?username=yongjannes&theme=gruvbox)
-
-
 
 
 <p align="center">
@@ -28,8 +25,12 @@
 </p>
 
 
+
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=yongjannes&theme=github-compact&hide_border=true&area=true" />
 
+![trophy](https://github-profile-trophy.vercel.app/?username=yongjannes)
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=yongjannes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongjannes&theme=tokyonight)
 
 
 
